@@ -1,4 +1,4 @@
-## Exercise 3
+## Exercise 3: Sort
 
 Sort by month. How can you ensure that months are in order?
 
