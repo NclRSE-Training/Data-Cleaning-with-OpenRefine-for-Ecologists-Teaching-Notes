@@ -5,8 +5,8 @@
 
 ## Episode 01
 
-- [Episode 01 exercise 01](Episode_01_ex01.md)
-- [Episode 01 exercise 02](Episode_01_ex02.md)
+- [Episode 01 exercise 01](Episode01_ex01.md)
+- [Episode 01 exercise 02](Episode01_ex02.md)
 
 ## Episode 02
 - [Episode 02 exercise 01](Episode02_ex01.md)
