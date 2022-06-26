@@ -13,3 +13,5 @@ Use `include / exclude` to select only entries from one of these two species.
     <li>Click <code>include</code> and <code>exclude</code> on the other species (<code>Chaetodipus baileyi</code>) and notice how the two entries appear and disappear from the table.</li>
   </ol>
 </details>
+
+[Episode 02 exercise 03](Episode02_ex03.md)
