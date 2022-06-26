@@ -1,4 +1,4 @@
-## Exercise 2
+## Exercise 2: Excluding entries
 
 Use `include / exclude` to select only entries from one of these two species.
 
