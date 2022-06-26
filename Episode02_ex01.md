@@ -6,11 +6,11 @@
 
 <details>
   
-<summary>
+  <summary>
     Solution
   </summary>
   <ol>
-    <li>Do <code>Facet > Text facet</code> on the <code>scientificName</code> column after filtering. This will show that two names match your filter criteria. They are <code>Baiomys taylori</code> and <code>Chaetodipus baileyi</code>.
+    <li>Do <code>Facet > Text facet</code> on the <code>scientificName</code> column after filtering. This will show that two names match your filter criteria. They are <code>Baiomys taylori</code> and <code>Chaetodipus baileyi</code>.</li>
     <li>To restrict to only one of these two species, you could:
       <ul>
         <li>Check the <code>case sensitive</code> box within the <code>scientificName</code> facet. Once you do this, you will see that using the upper-case <code>Bai</code> will only > > return <code>Baiomys taylori</code>, while using lower-case <code>bai</code> will only return <code>Chaetodipus baileyi</code>.</li>
@@ -19,6 +19,6 @@
     </li>
   </ol>
   
-  </details>
+</details>
 
 [Episode 02 exercise 02](Episode02_ex02.md)
