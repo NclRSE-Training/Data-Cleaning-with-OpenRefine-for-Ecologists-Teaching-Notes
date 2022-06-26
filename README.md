@@ -1,7 +1,7 @@
 # Teaching Notes: Data Cleaning with OpenRefine for Ecologists
 
 ## Introduction: 
-- [Introduction](introduction.md)
+- [Introduction](Introduction.md)
 
 ## Episode 01
 
