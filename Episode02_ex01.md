@@ -1,4 +1,4 @@
-## Exercise 1
+## Exercise 1: Filtering
 
 
 1. What scientific names (genus and species) are selected by this procedure?
