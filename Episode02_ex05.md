@@ -15,3 +15,5 @@ You might like to look for trends in your data by month of collection across yea
     <li>For the <code>yr</code> column, click on <code>Sort > Sort... > numbers</code> and select <code>sort by this column alone</code>. This will undo the sorting by month step. Once you’ve sorted by <code>yr</code> you can then apply another sorting step to sort by month within year. To do this for the <code>mo</code> column, click on <code>Sort > numbers</code> but do not select <code>sort by this column alone</code>. To ensure that all entries are shown chronologically, you will need to also sort by days within each month. Click on the <code>dy</code> column then <code>Sort > numbers</code>. Your data should now be in chronological order.</li>
   </ol>
 </details>
+
+[Episode 02 exercise 06](Episode02_ex06.md)
