@@ -18,6 +18,6 @@
     </ul>
   </ol>
   
-
-
   </details>
+
+[Episode 02 exercise 02](Episode02_ex02.md)
