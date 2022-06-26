@@ -1,5 +1,8 @@
 # Teaching Notes: Data Cleaning with OpenRefine for Ecologists
 
+## Introduction: 
+- [Introduction](introduction.md)
+
 ## Episode 01
 
 - [Episode 01 exercise 01](Episode_01_ex01.md)
