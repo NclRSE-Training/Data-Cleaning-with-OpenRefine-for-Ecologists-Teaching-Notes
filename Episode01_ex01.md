@@ -15,3 +15,4 @@
   </ol>
 </details>
   
+[Episode 01 exercise 02](Episode01_ex02.md)
