@@ -8,8 +8,8 @@ Use `include / exclude` to select only entries from one of these two species.
   </summary>
   
   <ol>
-    <li>In the facet (left margin), click on one of the names, such as Baiomys taylori. Notice that when you click on the name, or hover over it, there are entries to the right for edit and include.</li>
-    <li>Click include. This will explicitly include this species, and exclude others that are not expicitly included. Notice that the option now changes to exclude.</li>
-    <li>Click include and exclude on the other species (Chaetodipus baileyi) and notice how the two entries appear and disappear from the table.</li>
+    <li>In the facet (left margin), click on one of the names, such as Baiomys <code>taylori</code>. Notice that when you click on the name, or hover over it, there are entries to the right for <code>edit</code> and <code>include</code>.</li>
+    <li>Click <code>include</code>. This will explicitly include this species, and exclude others that are not expicitly included. Notice that the option now changes to <code>exclude</code>.</li>
+    <li>Click <code>include</code> and <code>exclude</code> on the other species (<code>Chaetodipus baileyi</code>) and notice how the two entries appear and disappear from the table.</li>
   </ol>
 </details>
